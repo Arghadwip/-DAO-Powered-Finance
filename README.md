@@ -14,14 +14,14 @@ A decentralized finance (DeFi) system combining **DAO governance** and **AI-powe
 
 ---
 
-## 🔍 Overview
+##  Overview
 - **DAO Governance**: Stakeholders propose and vote on portfolio strategies using Ethereum smart contracts.
 - **AI Optimization**: A Python-based model optimizes asset allocation using historical returns and risk preferences.
 - **Decentralized**: Built on Ethereum (or testnets like Goerli) for transparency and trustlessness.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Blockchain**: Solidity, Hardhat, Ethers.js
 - **AI/Backend**: Python, FastAPI, NumPy, SciPy
 - **Frontend**: Streamlit/React, Web3.js
@@ -29,7 +29,7 @@ A decentralized finance (DeFi) system combining **DAO governance** and **AI-powe
 
 ---
 
-## ✨ Features
+##  Features
 1. **Propose Strategies**: DAO members create portfolio allocation proposals.
 2. **Vote Securely**: On-chain voting using ERC-20 tokens or NFTs.
 3. **AI Execution**: Winning strategies are optimized by the AI model.
@@ -37,7 +37,7 @@ A decentralized finance (DeFi) system combining **DAO governance** and **AI-powe
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js ≥ 16.x
@@ -82,7 +82,7 @@ A decentralized finance (DeFi) system combining **DAO governance** and **AI-powe
 
 ---
 
-## 📈 Architecture
+##  Architecture
 ```mermaid
 graph TD
   A[DAO Members] -->|Propose/Vote| B[Smart Contract]
@@ -92,18 +92,15 @@ graph TD
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature/your-feature`.
 3. Commit changes: `git commit -m 'Add your feature'`.
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Open a Pull Request.
 
-## 🌟 Acknowledgements
+##  Acknowledgements
 - [Hardhat](https://hardhat.org/) for Ethereum development.
 - [FastAPI](https://fastapi.tiangolo.com/) for backend APIs.
 - Modern Portfolio Theory (MPT) for optimization logic.
 
----
-
-Feel free to tweak this template! Let me know if you need help adding screenshots, GIFs, or more detailed sections. 🚀
