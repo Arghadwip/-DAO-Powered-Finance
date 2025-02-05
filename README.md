@@ -99,13 +99,6 @@ graph TD
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Open a Pull Request.
 
----
-
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for details.
-
----
-
 ## 🌟 Acknowledgements
 - [Hardhat](https://hardhat.org/) for Ethereum development.
 - [FastAPI](https://fastapi.tiangolo.com/) for backend APIs.
