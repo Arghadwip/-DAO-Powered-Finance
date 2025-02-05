@@ -4,13 +4,10 @@ Here's a concise and professional **README.md** summary for your GitHub reposito
 
 ---
 
-# DAO-Powered Finance: AI-Driven Portfolio Optimization 🚀
+# DAO-Powered Finance: AI-Driven Portfolio Optimization 
 
 A decentralized finance (DeFi) system combining **DAO governance** and **AI-powered portfolio optimization**. Members collaboratively decide investment strategies via a DAO, while an AI model optimizes portfolios using Modern Portfolio Theory (MPT).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-green)](https://soliditylang.org/)
 
 ---
 
